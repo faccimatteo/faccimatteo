@@ -1,5 +1,5 @@
 # About Me:
-Msc student in Software Dependability and Cyber Security, R&D Engineer at www.nethive.it.<br>Currently studying how software and hardware really work under the hood.<br>
+Msc student in Software Dependability and Cyber Security.<br>Currently studying how software and hardware really work under the hood.<br>
 
 
 ## Socials:
